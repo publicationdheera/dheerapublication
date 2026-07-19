@@ -1,0 +1,8 @@
+# robots.txt for Dheera Publication
+# https://dheerapublication.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://dheerapublication.com/sitemap.xml
